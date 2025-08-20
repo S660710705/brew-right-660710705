@@ -1,0 +1,47 @@
+[33mcommit b21065f0606311d6e8dffd08189274514eb26457[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mlab/week4[m[33m)[m
+Author: S660710705 <nakfon_n@su.ac.th>
+Date:   Wed Jul 30 08:10:02 2025 +0000
+
+    Add Week 4 Data Transformation with dbt implementation
+
+[33mcommit b8a707ec61a5014d07f9a34a9c5b7f161c15e267[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: 844d272 a182322
+Author: S660710705 <nakfon_n@su.ac.th>
+Date:   Wed Jul 23 16:15:32 2025 +0700
+
+    Merge pull request #2 from S660710705/lab/week3
+    
+    Add Week 3 Data Ingestion and Bronze Layer implementation
+
+[33mcommit a182322556970bdb81ed3b44545234c226d61cd3[m[33m ([m[1;31morigin/lab/week3[m[33m)[m
+Author: S660710705 <nakfon_n@su.ac.th>
+Date:   Wed Jul 23 09:08:37 2025 +0000
+
+    Add Week 3 Data Ingestion and Bronze Layer implementation
+
+[33mcommit 844d272a169d3e823ea3dcf67079f5eb52ad1e6a[m
+Merge: d612da0 2ee8253
+Author: S660710705 <nakfon_n@su.ac.th>
+Date:   Wed Jul 16 15:36:18 2025 +0700
+
+    Merge pull request #1 from S660710705/lab/week2
+    
+    add Hello World Docker setup
+
+[33mcommit 2ee8253566600ae005a59460de6220e5cb13ad1c[m[33m ([m[1;31morigin/lab/week2[m[33m)[m
+Author: S660710705 <nakfon_n@su.ac.th>
+Date:   Wed Jul 16 08:26:43 2025 +0000
+
+    add Hello World Docker setup
+
+[33mcommit d612da0916835684b886d0cedb731f2ddd048be6[m
+Author: S660710705 <nakfon_n@su.ac.th>
+Date:   Wed Jul 16 07:05:27 2025 +0000
+
+    run notebook ok
+
+[33mcommit 4f758699974ef5df030778eeccb38346f42de95e[m
+Author: S660710705 <nakfon_n@su.ac.th>
+Date:   Wed Jul 16 13:45:56 2025 +0700
+
+    Initial commit
